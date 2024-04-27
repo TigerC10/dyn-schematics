@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "id": "DynamicModuleschema",
+  "$id": "DynamicModuleschema",
   "title": "Nest Dynamic Module Options Schema",
   "type": "object",
   "properties": {
